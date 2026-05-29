@@ -2,6 +2,17 @@
 
 A full-stack real-time web application that allows college students to track their bus live on a map. Drivers share their GPS location and students see it update in real time.
 
+## 📸 Screenshots
+
+### Login Page
+![Login](./screenshots/screenshot1.png.jpeg)
+
+### Bus Selection
+![Bus Selection](./screenshots/screenshot2.png.jpeg)
+
+### Live Map
+![Live Map](./screenshots/screenshot3.png.jpeg)
+
 ## 🌟 Features
 
 - 🔐 **JWT Authentication** — Secure login for both drivers and students
